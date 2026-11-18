@@ -1,0 +1,18 @@
+{
+  "product": "game-pro-fps",
+  "version": "3.1.0",
+  "pub_date": "2026-11-18",
+  "title": "fix: FOCAR nao trava mais o launcher",
+  "changelog": [
+    "fix: FOCAR nao trava mais o launcher",
+    "fix: PresentMon - falha aparece na HUD e no log",
+    "feat: botao Enviar relatorio (Discord + fila de reenvio 30s)",
+    "feat: banner de atualizacao automatica ao iniciar",
+    "fix: HUD/overlay - todas as cores seguem seus swatches",
+    "fix: fechar no X sempre restaura o PC"
+  ],
+  "installer": "https://github.com/JTLTDA/updates/releases/download/game-pro-fps-v3.1.0/GameProFPS_JTLTDA_Setup_v3.1.0.exe",
+  "sha256": "4601093e14f05ce68936dfa95fbb2dac84579219f57bee7debeede99d3d32e96",
+  "size_bytes": 36862309,
+  "mandatory": false
+}
