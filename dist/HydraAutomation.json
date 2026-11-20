@@ -1,1 +1,6 @@
-
+{
+  "version": "1.0.0",
+  "changelog": "Versão inicial do Hydra Automation JTLTDA.",
+  "url": "https://github.com/JTLTDA/updates/releases/download/v1.0.0/HydraAutomation_Setup_v1.0.0.exe",
+  "sha256": "8F73BB90638C364A00689FD37A16DF09E04FECD5FEB8D2F125C1BFF91CABC5F1"
+}
