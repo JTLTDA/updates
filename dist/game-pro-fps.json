@@ -1,13 +1,20 @@
 {
   "product": "game-pro-fps",
   "version": "3.2.0",
-  "pub_date": "2026-11-20",
-  "title": "fix MAC removido do fingerprint feat modo Apenas Focar feat Benchmark 2 min feat auto-update embutido",
+  "pub_date": "2026-11-19",
+  "title": "v3.2 — Modo Focar + Benchmark + Auto-update",
   "changelog": [
-    "fix MAC removido do fingerprint feat modo Apenas Focar feat Benchmark 2 min feat auto-update embutido"
+    "feat: novo modo Apenas Focar (não muda nada, só mostra FPS)",
+    "feat: Benchmark 2 min com relatório completo (.txt + gráfico PNG)",
+    "feat: atalhos completos no overlay FPS (Foco, Cancelar, Benchmark)",
+    "feat: auto-update embutido no launcher",
+    "fix: Mostrar na bandeja quando minimizado (showNormal + raise_)",
+    "fix: MAC address removido do fingerprint (licença mais estável)",
+    "feat: botão Abrir pasta dos benchmarks (launcher + overlay master)",
+    "feat: novo modo Apenas Focar na bandeja"
   ],
-  "installer": "https://github.com/JTLTDA/updates/releases/download/game-pro-fps-v3.2.0/GameProFPS_JTLTDA_Setup_v3.2.0.exe",
-  "sha256": "2e057faadf4c216052dc6b4552d7ca7190d4b621e35f2dd724fff6d31695b24e",
-  "size_bytes": 33069920,
+  "installer": "https://github.com/JTLTDA/updates/releases/download/v3.2.0/GameProFPS_JTLTDA_Setup_v3.2.0.exe",
+  "sha256": "7c3d5c8df31f2c57a9ddfd745b987dac4cf6faff21528d9c9d7c85b22bda69da",
+  "size_bytes": 21093888,
   "mandatory": false
 }
