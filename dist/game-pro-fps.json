@@ -1,18 +1,13 @@
 {
   "product": "game-pro-fps",
-  "version": "3.1.0",
-  "pub_date": "2026-11-18",
-  "title": "fix: FOCAR nao trava mais o launcher",
+  "version": "3.2.0",
+  "pub_date": "2026-11-20",
+  "title": "fix MAC removido do fingerprint feat modo Apenas Focar feat Benchmark 2 min feat auto-update embutido",
   "changelog": [
-    "fix: FOCAR nao trava mais o launcher",
-    "fix: PresentMon - falha aparece na HUD e no log",
-    "feat: botao Enviar relatorio (Discord + fila de reenvio 30s)",
-    "feat: banner de atualizacao automatica ao iniciar",
-    "fix: HUD/overlay - todas as cores seguem seus swatches",
-    "fix: fechar no X sempre restaura o PC"
+    "fix MAC removido do fingerprint feat modo Apenas Focar feat Benchmark 2 min feat auto-update embutido"
   ],
-  "installer": "https://github.com/JTLTDA/updates/releases/download/game-pro-fps-v3.1.0/GameProFPS_JTLTDA_Setup_v3.1.0.exe",
-  "sha256": "4601093e14f05ce68936dfa95fbb2dac84579219f57bee7debeede99d3d32e96",
-  "size_bytes": 36862309,
+  "installer": "https://github.com/JTLTDA/updates/releases/download/game-pro-fps-v3.2.0/GameProFPS_JTLTDA_Setup_v3.2.0.exe",
+  "sha256": "2e057faadf4c216052dc6b4552d7ca7190d4b621e35f2dd724fff6d31695b24e",
+  "size_bytes": 33069920,
   "mandatory": false
 }
