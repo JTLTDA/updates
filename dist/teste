@@ -1,1 +1,6 @@
-
+{
+  "version": "2.0.0",
+  "changelog": "Teste de atualização",
+  "url": "https://github.com/JTLTDA/updates/releases/download/v1.0.0/teste.txt",
+  "sha256": ""
+}
