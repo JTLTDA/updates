@@ -14,7 +14,7 @@
     "feat: novo modo Apenas Focar na bandeja"
   ],
   "installer": "https://github.com/JTLTDA/updates/releases/download/v3.2.0/GameProFPS_JTLTDA_Setup_v3.2.0.exe",
-  "sha256": "7c3d5c8df31f2c57a9ddfd745b987dac4cf6faff21528d9c9d7c85b22bda69da",
-  "size_bytes": 21093888,
+  "sha256": "cf70c05cc93fcd47e82f0e9328cc22e254fd093d496e6c138725f23e0f66cdc1",
+  "size_bytes": 33068630,
   "mandatory": false
 }
